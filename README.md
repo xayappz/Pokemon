@@ -19,4 +19,5 @@ A new Pokemon project.
 
 <a href="url"><img src="https://github.com/xayappz/Pokemon/blob/master/screenshots/Screenshot_20241120_091931.png" align="left" height="600" width="300" ></a>
 
+<a href="https://github.com/xayappz/Pokemon/blob/master/Pokemon.apk">Download Apk</a>
 
